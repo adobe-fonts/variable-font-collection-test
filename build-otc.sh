@@ -1,0 +1,5 @@
+otf2otc -o SourceHanSansVFProto.ttc SourceHanSansVFProtoJP.otf SourceHanSansVFProtoKR.otf SourceHanSansVFProtoCN.otf SourceHanSansVFProtoTW.otf SourceHanSansVFProtoHK.otf SourceHanSansVFProtoMO.otf
+
+otf2otc -o SourceHanSerifVFProto.ttc SourceHanSerifVFProtoJP.otf SourceHanSerifVFProtoKR.otf SourceHanSerifVFProtoCN.otf SourceHanSerifVFProtoTW.otf SourceHanSerifVFProtoHK.otf SourceHanSerifVFProtoMO.otf
+
+otf2otc -o SourceHanVFProto.ttc SourceHanSansVFProtoJP.otf SourceHanSansVFProtoKR.otf SourceHanSansVFProtoCN.otf SourceHanSansVFProtoTW.otf SourceHanSansVFProtoHK.otf SourceHanSansVFProtoMO.otf SourceHanSerifVFProtoJP.otf SourceHanSerifVFProtoKR.otf SourceHanSerifVFProtoCN.otf SourceHanSerifVFProtoTW.otf SourceHanSerifVFProtoHK.otf SourceHanSerifVFProtoMO.otf
