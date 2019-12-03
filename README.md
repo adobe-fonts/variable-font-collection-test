@@ -123,4 +123,4 @@ In this repository, all necessary files are included in the "OTF" directory for 
 
 ## Getting Involved
 
-Send suggestions for changes to the Variable Font Collection Test project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Variable%20Font%20Collection%20Test), for consideration.
+For any suggestions for changes, please [create a new issue](https://github.com/adobe-fonts/variable-font-collection-test/issues) for consideration.
